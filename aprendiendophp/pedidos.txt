@@ -1,0 +1,93 @@
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+---------------------------------2
+2
+3
+Cristian
+Sena
+---------------------------------2
+2
+3
+Cristian
+Sena
+---------------------------------2
+2
+3
+Cristian
+Sena
+---------------------------------2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+Cristian
+Sena
+2
+2
+3
+freyder
+casa
+
+
+
+Nombre del Pedidoyan
+Direccion del Pedidocasa
+Jamon y Queso3
+Napolitana4
+Muzarella2
+--------------------------------------
+Nombre del Pedido: camila
+Direccion del Pedido: centro
+Jamon y Queso: 3
+Napolitana: 2
+Muzarella: 
+--------------------------------------
+Nombre del Pedido: camila
+Direccion del Pedido: centro
+Napolitana: 4
+Muzarella: 5
+--------------------------------------
+Nombre del Pedido: freyder
+Direccion del Pedido: casa
+--------------------------------------
+Nombre del Pedido: 
+Direccion del Pedido: 
+--------------------------------------
