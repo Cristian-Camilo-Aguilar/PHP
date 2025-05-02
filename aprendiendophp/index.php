@@ -22,6 +22,15 @@
     <a href="t1p16.php">Ir a ejercicio t1p16.php</a><br>
     <a href="t1p17.php">Ir a ejercicio t1p17.php</a><br>
     <a href="t2p18.php">Ir a ejercicio t2p18.php</a><br>
-    <a href="t2p19.php">Ir a ejercicio t2p19.php</a><br>
+    <a href="t2p19y20.php">Ir a ejercicio t2p19y20.php</a><br>
+    <a href="t2p21.php">Ir a ejercicio t2p21.php</a><br>
+    <a href="t2p22.php">Ir a ejercicio t2p22.php</a><br>
+    <a href="t2p23.php">Ir a ejercicio t2p23.php</a><br>
+    <a href="t2p24.php">Ir a ejercicio t2p24.php (Elimina los registros de los Cursos)</a><br>
+    <a href="t2p25.php">Ir a ejercicio t2p25.php</a><br>
+    <a href="t2p26.php">Ir a ejercicio t2p26.php</a><br>
+    <a href="t2p27.php">Ir a ejercicio t2p27.php</a><br>
+    <a href="t2p28.php">Ir a ejercicio t2p28.php</a><br>
+    <a href="t2p29.php">Ir a ejercicio t2p29.php</a><br>
 </body>
 </html>
